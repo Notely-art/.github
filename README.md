@@ -1,5 +1,5 @@
  ![Nest.JS Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
- ![HBS Badge](https://img.shields.io/badge/hbs-F38020?style=for-the-badge&logo=hbs&logoColor=white)
+ ![Handlebars Badge](https://img.shields.io/badge/Handlebars-F38020?style=for-the-badge&logo=Handlebars&logoColor=white)
 
 
 

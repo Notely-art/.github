@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://github.com/Notely-art/notely/blob/master/public/frontend/img/notely-icon.png" alt="logo" width="200" height="auto" />
-  <h1>Notely.art</h1>
+  <h1>Notely.art :art: </h1>
   
   <p>
     An awesome WYSIWYG editor & Painter ! 
@@ -11,7 +11,7 @@
   </h4>
  </div>
 
-### :space_invader: Tech Stack
+### :toolbox:  Tech Stack
 
 | Title             | Technologies                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -23,6 +23,9 @@
 | Database | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | Version control | ![Github](https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white) |
 | Code editor / IDE | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
+
+
 
 
 

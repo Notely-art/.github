@@ -1,4 +1,15 @@
- ![Nest.JS Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+<div align="center">
+
+  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <h1>Awesome Readme Template</h1>
+  
+  <p>
+    An awesome README template for your projects! 
+  </p>
+ </div>
+
+
+![Nest.JS Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
  ![Handlebars.JS Badge](https://img.shields.io/badge/handlebarsjs-F38020?style=for-the-badge&logo=handlebarsjs&logoColor=white)
 
 

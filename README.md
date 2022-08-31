@@ -1,4 +1,4 @@
- ![Nest.JS Badge](https://img.shields.io/badge/nestjs-23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+ ![Nest.JS Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 

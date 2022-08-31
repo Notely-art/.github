@@ -1,18 +1,29 @@
 <div align="center">
 
-![alt text](https://github.com/Notely-art/notely/tree/master/public/frontend/img?raw=true)
-
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+  <img src="https://github.com/Notely-art/notely/blob/master/public/frontend/img/notely-icon.png" alt="logo" width="200" height="auto" />
+  <h1>Notely.art</h1>
   
   <p>
-    An awesome README template for your projects! 
+    An awesome WYSIWYG editor & Painter ! 
   </p>
+  <h4>
+    <a href="https://notely.art">View Demo</a>
+  </h4>
  </div>
 
+### :space_invader: Tech Stack
 
-![Nest.JS Badge](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
- ![Handlebars.JS Badge](https://img.shields.io/badge/handlebarsjs-F38020?style=for-the-badge&logo=handlebarsjs&logoColor=white)
+| Title             | Technologies                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Core | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| Frontend | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) |
+| Backend | ![Nest.JS](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| Auth | ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| Server & Client Communication | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) |
+| Database | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+| Version control | ![Github](https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white) |
+| Code editor / IDE | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+
 
 
 
@@ -24,29 +35,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MirLabibHossain) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirlabibhossain99@gmail.com)
 
-
-:basketball: &emsp;Things I code with now
-
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Mir-Labib-Hossain/static-projects---snippets---problem-solving/tree/main/js/snippets) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/Mir-Labib-Hossain/E-Commerce-with-cart) 
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
-[![Vite Badge](https://img.shields.io/badge/vite-A14AED?style=for-the-badge&logo=vite&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
-![Docker Badge](https://img.shields.io/badge/Docker-1DA1F2?style=for-the-badge&logo=docker&logoColor=white)
-[![Redux Badge](https://img.shields.io/badge/Redux-7447B2?style=for-the-badge&logo=Redux&logoColor=white)](https://github.com/Mir-Labib-Hossain/cholochitro-NETFLIX-clone)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Mir-Labib-Hossain)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-1877F2?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
-
-
-
-:gift: &emsp;Extra
-
-[![Laravel Badge](https://img.shields.io/badge/Laravel-F05032?style=for-the-badge&logo=Laravel&logoColor=white)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce)
-[![Jest Badge](https://img.shields.io/badge/Jest-FF0000?style=for-the-badge&logo=Jest&logoColor=white)](https://github.com/Mir-Labib-Hossain/JEST-testing-setup-with-vite-reactTS)
-[![Python Badge](https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/Mir-Labib-Hossain/multiple-nation-currency-converter)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=F05032)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce)
-[![Flask Badge](https://img.shields.io/badge/Flask-FF0000?style=for-the-badge&logo=Flask&logoColor=white)](https://github.com/Mir-Labib-Hossain/university-management-system)
-[![PHP Badge](https://img.shields.io/badge/PHP-1877F2?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/Mir-Labib-Hossain/laravel8-fully-dynamic-ecommerce) 
-[![Jinja Badge](https://img.shields.io/badge/Jinja-white?style=for-the-badge&logo=Jinja&logoColor=FF0000)](https://github.com/Mir-Labib-Hossain/university-management-system)
 
 
 

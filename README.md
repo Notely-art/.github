@@ -1,5 +1,7 @@
 <div align="center">
 
+![alt text](https://github.com/Notely-art/notely/blob/master/public/frontend/img?raw=true)
+
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
   <h1>Awesome Readme Template</h1>
   

@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/Notely-art/notely/blob/master/public/frontend/img/notely-icon.png" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/Notely-art/.github/blob/main/notely-icon.png" alt="logo" width="200" height="auto" />
   <h1>Notely.art :art: </h1>
   
   <p>

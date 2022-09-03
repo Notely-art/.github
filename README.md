@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/Notely-art/.github/blob/main/notely-icon.png" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/Notely-art/.github/blob/main/assets/notely-icon.png" alt="logo" width="200" height="auto" />
   <h1>Notely.art :art: </h1>
   
   <p>
@@ -26,8 +26,7 @@
 | Code editor / IDE | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 
-
-
+<img src="https://github.com/Notely-art/.github/blob/main/assets/ss.png" alt="logo" width="100%" height="auto" />
 
 
 
@@ -42,13 +41,29 @@
 
 ##### Mir Fayek Hossain
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tanbirhasan.tannu) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tanbir_tannu?igshid=YmMyMTA2M2Y=) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanbirhasan19k96@gmail.com
+)
+
+##### Tanbir Hasan
+
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fayek.hossain.5) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-fayek-49920a233/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fayekhossain?igshid=YmMyMTA2M2Y=) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mirfayekhossain) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirfayekhossain@gmail.com)
 
+##### Afsana Shimul
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/afsana.akter.73345) 
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Khadijhahomairah@gmail.com
+)
+
+
+
+<br>
+<br>
 
 <a href="https://www.buymeacoffee.com/mirlabibhossain" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
